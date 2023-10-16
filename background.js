@@ -5,4 +5,8 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
       disposition: 'NEW_TAB'
     });
   }
+
+  if (request.action === "openNewTab") {
+    chrome.tabs.create({ url: request.url });
+  }
 });
