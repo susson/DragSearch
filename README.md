@@ -1,8 +1,8 @@
 # DragSearch (Chrome Extension)
 
-When you see text on a page that needs to be searched, we need to perform the steps of selecting the text, copying it, opening a new tab, pasting the text, and then performing the search. This extension enables a shortcut operation of selecting text and dragging it to search.
-
 **English** | [中文](./README_CN.md)
+
+When you see text on a page that needs to be searched, we need to perform the steps of selecting the text, copying it, opening a new tab, pasting the text, and then performing the search. This extension enables a shortcut operation of selecting text and dragging it to search.
 
 ## Install (Chrome)
 
